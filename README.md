@@ -1,4 +1,4 @@
-# nLe chat 
+# Le chat 
 Un :cat: entièrement réalisé avec NodeJS.
 
 ## Consignes
